@@ -1,0 +1,37 @@
+div{
+    background-color: #D4ECDD;
+  
+}
+
+h1{ 
+    font-size: 50px;;
+    margin-top: 0px; 
+    font-family: 'Sacramento', cursive;
+}
+
+body{
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+ background-color: aqua;
+ padding-top: 100px;
+}
+
+
+.under{
+    text-decoration: underline;
+}
+
+.Bottom-cloud{
+    position:absolute;
+    right:900px;
+    top:200px;
+}
+.Top-cloud{
+    position:absolute;
+    right:350px;
+    top:50px;
+}
